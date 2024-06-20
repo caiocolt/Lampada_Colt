@@ -1,0 +1,28 @@
+body {
+    background-color: #303030;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section{
+    text-align: center;
+    background-color: rgb(29, 78, 121);
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+    border: 0px;
+    padding: 10px;
+}
+
+.botao {
+    background-color: #494545;
+    border-radius: 15px;
+    border: 1px;
+    color: cornsilk;
+    padding: 5px;
+    margin: 7px;
+    width: 100px;
+}
